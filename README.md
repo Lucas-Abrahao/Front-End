@@ -10,9 +10,7 @@
 
 ---
 
-<!---Vanilla Projects Start--->
-
-<h2 align="center">Vanilla Projects:</h2>
+<h2 align="center"> My Projects:</h2>
 
 ---
 

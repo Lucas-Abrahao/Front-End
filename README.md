@@ -29,6 +29,7 @@ https://github.com/Lucas-Abrahao/AnimatedLoginForm
   Calculator
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </h3>
 
 <p>My First Project in Web-Dev.</p>
@@ -49,6 +50,7 @@ https://github.com/Lucas-Abrahao/Calculator
   New Year Countdown
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </h3>
 
 <p>Using JavaScript to countdown how many Days, Hours, Minutes and Seconds are left until the New Year.</p>

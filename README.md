@@ -24,6 +24,12 @@
 
 <p>My First Contact with Animation in CSS.</p>
 https://github.com/Lucas-Abrahao/AnimatedLoginForm
+
+<h4>Preview:</h4>
+https://lucas-abrahao.github.io/AnimatedLoginForm/
+
+---
+
 <!--------------------------------------------------------------------------B-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------C-------------------------------------------------------------------------->
 <h3>
@@ -35,6 +41,12 @@ https://github.com/Lucas-Abrahao/AnimatedLoginForm
 
 <p>My First Project in Web-Dev.</p>
 https://github.com/Lucas-Abrahao/Calculator
+
+<h4>Preview:</h4>
+https://lucas-abrahao.github.io/Calculator/
+
+---
+
 <!--------------------------------------------------------------------------D-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------E-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------F-------------------------------------------------------------------------->
@@ -56,6 +68,11 @@ https://github.com/Lucas-Abrahao/Calculator
 
 <p>Using JavaScript to countdown how many Days, Hours, Minutes and Seconds are left until the New Year.</p>
 https://github.com/Lucas-Abrahao/NewYearCountdown
+<h4>Preview:</h4>
+https://lucas-abrahao.github.io/NewYearCountdown/
+
+---
+
 <!--------------------------------------------------------------------------O-------------------------------------------------------------------------->
 <h3>
   - OpenWeatherAPI
@@ -66,6 +83,11 @@ https://github.com/Lucas-Abrahao/NewYearCountdown
 
 <p>Using OpenWeatherAPI to Show Current Weather Data from Any City.</p>
 https://github.com/Lucas-Abrahao/OpenWeatherAPI
+<h4>Preview:</h4>
+https://lucas-abrahao.github.io/OpenWeatherAPI/
+
+---
+
 <!--------------------------------------------------------------------------P-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------Q-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------R-------------------------------------------------------------------------->
@@ -78,6 +100,10 @@ https://github.com/Lucas-Abrahao/OpenWeatherAPI
 
 <p>Using JavaScript to Show the RGB Color and Code.</p>
 https://github.com/Lucas-Abrahao/RGB-Generator
+<h4>Preview:</h4>
+https://lucas-abrahao.github.io/RGB-Generator/
+---
+
 <!--------------------------------------------------------------------------S-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------T-------------------------------------------------------------------------->
 
@@ -90,6 +116,9 @@ https://github.com/Lucas-Abrahao/RGB-Generator
 
 <p>To-Do List Using JQuery</p>
 https://github.com/Lucas-Abrahao/ToDoList
+<h4>Preview:</h4>
+
+---
 
 <!---BRK--->
 
@@ -101,6 +130,10 @@ https://github.com/Lucas-Abrahao/ToDoList
 
 <p>My First Time Using Background Image</p>
 https://github.com/Lucas-Abrahao/TransparentLoginForm
+<h4>Preview:</h4>
+
+---
+
 <!--------------------------------------------------------------------------U-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------V-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------W-------------------------------------------------------------------------->

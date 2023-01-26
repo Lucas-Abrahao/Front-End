@@ -59,6 +59,15 @@ https://github.com/Lucas-Abrahao/NewYearCountdown
 <!---R--->
 <!---S--->
 <!---T--->
+<h3>
+  To-Do List
+  <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JQuery" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+</h3>
+
+<p>To-Do List Using JQuery</p>
+https://github.com/Lucas-Abrahao/NewYearCountdown
 <!---U--->
 <!---V--->
 <!---W--->

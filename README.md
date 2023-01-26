@@ -17,7 +17,7 @@
 <!--------------------------------------------------------------------------A-------------------------------------------------------------------------->
 
 <h3>
-  Animated Login Form  
+  - Animated Login Form  
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </h3>
@@ -27,7 +27,7 @@ https://github.com/Lucas-Abrahao/AnimatedLoginForm
 <!--------------------------------------------------------------------------B-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------C-------------------------------------------------------------------------->
 <h3>
-  Calculator
+  - Calculator
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -48,7 +48,7 @@ https://github.com/Lucas-Abrahao/Calculator
 <!--------------------------------------------------------------------------N-------------------------------------------------------------------------->
 
 <h3>
-  New Year Countdown
+  - New Year Countdown
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -58,7 +58,7 @@ https://github.com/Lucas-Abrahao/Calculator
 https://github.com/Lucas-Abrahao/NewYearCountdown
 <!--------------------------------------------------------------------------O-------------------------------------------------------------------------->
 <h3>
-  OpenWeatherAPI
+  - OpenWeatherAPI
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -70,7 +70,7 @@ https://github.com/Lucas-Abrahao/OpenWeatherAPI
 <!--------------------------------------------------------------------------Q-------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------R-------------------------------------------------------------------------->
 <h3>
-  RGB Generator
+  - RGB Generator
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -82,7 +82,7 @@ https://github.com/Lucas-Abrahao/RGB-Generator
 <!--------------------------------------------------------------------------T-------------------------------------------------------------------------->
 
 <h3>
-  To-Do List
+  - To-Do List
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JQuery" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
@@ -94,7 +94,7 @@ https://github.com/Lucas-Abrahao/ToDoList
 <!---BRK--->
 
 <h3>
-  Transparent Login Form  
+  - Transparent Login Form  
   <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </h3>

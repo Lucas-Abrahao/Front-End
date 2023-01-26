@@ -102,6 +102,7 @@ https://lucas-abrahao.github.io/OpenWeatherAPI/
 https://github.com/Lucas-Abrahao/RGB-Generator
 <h4>Preview:</h4>
 https://lucas-abrahao.github.io/RGB-Generator/
+
 ---
 
 <!--------------------------------------------------------------------------S-------------------------------------------------------------------------->

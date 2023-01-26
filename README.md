@@ -18,6 +18,7 @@
 
 <h3>
   Animated Login Form  
+  <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </h3>
 
@@ -73,6 +74,7 @@ https://github.com/Lucas-Abrahao/ToDoList
 
 <h3>
   Transparent Login Form  
+  <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </h3>
 

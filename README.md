@@ -67,7 +67,7 @@ https://github.com/Lucas-Abrahao/NewYearCountdown
 </h3>
 
 <p>To-Do List Using JQuery</p>
-https://github.com/Lucas-Abrahao/NewYearCountdown
+https://github.com/Lucas-Abrahao/ToDoList
 <!---U--->
 <!---V--->
 <!---W--->

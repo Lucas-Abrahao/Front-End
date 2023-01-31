@@ -72,7 +72,17 @@ https://github.com/Lucas-Abrahao/NewYearCountdown
 https://lucas-abrahao.github.io/NewYearCountdown/
 
 ---
+<!---BRK--->
+<h3>
+  - Nike Landing Page
+  <img alt="HTML5" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</h3>
 
+<p>Beginning of my Studies Doing a Complete Landing Page.</p>
+https://github.com/Lucas-Abrahao/NikeLandingPage
+<h4>Preview:</h4>
+https://lucas-abrahao.github.io/NikeLandingPage/
 <!--------------------------------------------------------------------------O-------------------------------------------------------------------------->
 <h3>
   - OpenWeatherAPI
